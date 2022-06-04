@@ -4,7 +4,7 @@
     "url": "https://www.siw.nl",
     "icon": "https://favicons.githubusercontent.com/www.siw.nl",
     "slug": "siw-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 976,
     "timeYear": 979,
     "dailyMinutesDown": {
+      "2022-06-04": 0,
       "2022-05-13": 28,
       "2022-04-27": 21,
       "2022-04-26": 17,
