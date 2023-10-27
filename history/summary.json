@@ -4,7 +4,7 @@
     "url": "https://www.siw.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.siw.nl.ico",
     "slug": "siw-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
@@ -16,6 +16,7 @@
     "timeMonth": 1172,
     "timeYear": 1102,
     "dailyMinutesDown": {
+      "2023-10-27": 0,
       "2023-10-25": 18,
       "2023-10-15": 18,
       "2023-09-20": 42,
