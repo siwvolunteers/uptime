@@ -3,8 +3,10 @@ owner: siwvolunteers
 repo: uptime
 
 sites:
-  - name: SIW site
+  - name: SIW Live site
     url: https://www.siw.nl
+  - name: SIW Staging site  
+    https://staging.siw.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
